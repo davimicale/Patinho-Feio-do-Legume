@@ -32,7 +32,7 @@
         <mxCell id="p7sG_A2Wumf9iOG94U6v-5" value="Carrinho de compras" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p7sG_A2Wumf9iOG94U6v-6" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="p7sG_A2Wumf9iOG94U6v-6" value="Estoque de produtos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="390" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p7sG_A2Wumf9iOG94U6v-7" value="Análise de dados" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
         <mxCell id="p7sG_A2Wumf9iOG94U6v-8" value="Sistema de pagamento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p7sG_A2Wumf9iOG94U6v-9" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="p7sG_A2Wumf9iOG94U6v-9" value="Consumidor" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p7sG_A2Wumf9iOG94U6v-10" value="Pedidos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
