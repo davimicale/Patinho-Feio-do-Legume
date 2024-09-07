@@ -29,7 +29,7 @@
         <mxCell id="p7sG_A2Wumf9iOG94U6v-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="p7sG_A2Wumf9iOG94U6v-5" target="p7sG_A2Wumf9iOG94U6v-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p7sG_A2Wumf9iOG94U6v-5" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="p7sG_A2Wumf9iOG94U6v-5" value="Carrinho de compras" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="280" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p7sG_A2Wumf9iOG94U6v-6" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
