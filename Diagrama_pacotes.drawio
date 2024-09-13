@@ -156,6 +156,12 @@
         <mxCell id="YmG18XTpctHCSX0sT91k-18" value="Consumidor" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="110" y="-94" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YmG18XTpctHCSX0sT91k-19" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="384" y="-168" width="183" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="YmG18XTpctHCSX0sT91k-20" value="Análise de dados" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="438" y="-100.5" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
