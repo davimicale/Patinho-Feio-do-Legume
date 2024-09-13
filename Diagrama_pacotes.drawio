@@ -133,10 +133,10 @@
           <mxGeometry x="41" y="-406" width="238.5" height="173" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-8" value="Carrinho de compras" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-309" width="80" height="50" as="geometry" />
+          <mxGeometry x="66" y="-301" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-9" value="Pedidos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="165" y="-305" width="70" height="50" as="geometry" />
+          <mxGeometry x="181" y="-301" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-11" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="333" y="-427" width="193" height="191" as="geometry" />
