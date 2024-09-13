@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13">
   <diagram name="Página-1" id="b0-v8Z2nwzYcPj8C2FOr">
-    <mxGraphModel dx="1354" dy="1400" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="1800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,13 +124,13 @@
           <mxGeometry x="-61" y="-654" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-4" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="342" y="-705" width="186" height="186" as="geometry" />
+          <mxGeometry x="313" y="-840" width="186" height="186" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-5" value="Marketplace" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="-633" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-7" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="45" y="-439" width="259" height="208" as="geometry" />
+          <mxGeometry x="20.5" y="-441" width="259" height="208" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-8" value="Carrinho de compras" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="66" y="-340" width="80" height="50" as="geometry" />
@@ -152,6 +152,9 @@
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-16" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="45" y="-202" width="260" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="YmG18XTpctHCSX0sT91k-18" value="Consumidor" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-94" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
