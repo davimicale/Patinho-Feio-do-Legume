@@ -112,10 +112,16 @@
           <mxGeometry x="140" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kf2Zh2rRVr4dtMnIcFkT-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="45" y="-709" width="279" height="250" as="geometry" />
+          <mxGeometry x="45" y="-709" width="257" height="226" as="geometry" />
         </mxCell>
         <mxCell id="kf2Zh2rRVr4dtMnIcFkT-2" value="Pesquisa de produtos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="98" y="-655" width="80" height="50" as="geometry" />
+          <mxGeometry x="98" y="-635" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmG18XTpctHCSX0sT91k-1" value="Páginas de produtos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="194" y="-635" width="84" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmG18XTpctHCSX0sT91k-2" value="Produtos em destaque" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="136" y="-563" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
