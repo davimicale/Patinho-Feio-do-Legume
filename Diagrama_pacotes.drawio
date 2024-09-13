@@ -111,7 +111,7 @@
         <mxCell id="p7sG_A2Wumf9iOG94U6v-43" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kf2Zh2rRVr4dtMnIcFkT-1" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="kf2Zh2rRVr4dtMnIcFkT-1" value="Interface de usuário" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-90" y="-779" width="223" height="196" as="geometry" />
         </mxCell>
         <mxCell id="kf2Zh2rRVr4dtMnIcFkT-2" value="Pesquisa de produtos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -123,20 +123,20 @@
         <mxCell id="YmG18XTpctHCSX0sT91k-2" value="Produtos em destaque" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-61" y="-654" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YmG18XTpctHCSX0sT91k-4" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YmG18XTpctHCSX0sT91k-4" value="Plataforma" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="313" y="-840" width="186" height="186" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-5" value="Marketplace" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-633" width="80" height="50" as="geometry" />
+          <mxGeometry x="334" y="-725" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YmG18XTpctHCSX0sT91k-7" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YmG18XTpctHCSX0sT91k-7" value="Processamento de compras&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20.5" y="-441" width="259" height="208" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-8" value="Carrinho de compras" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="66" y="-340" width="80" height="50" as="geometry" />
+          <mxGeometry x="50" y="-309" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-9" value="Pedidos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="179" y="-340" width="70" height="50" as="geometry" />
+          <mxGeometry x="165" y="-305" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-11" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="333" y="-427" width="193" height="191" as="geometry" />
