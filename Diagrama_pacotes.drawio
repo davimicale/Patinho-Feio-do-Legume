@@ -115,10 +115,10 @@
           <mxGeometry x="-90" y="-779" width="223" height="196" as="geometry" />
         </mxCell>
         <mxCell id="kf2Zh2rRVr4dtMnIcFkT-2" value="Pesquisa de produtos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-71" y="-737" width="80" height="50" as="geometry" />
+          <mxGeometry x="-61" y="-747" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-1" value="Páginas de produtos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="38" y="-734" width="84" height="50" as="geometry" />
+          <mxGeometry x="41" y="-747" width="84" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-2" value="Produtos em destaque" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-61" y="-654" width="90" height="50" as="geometry" />
