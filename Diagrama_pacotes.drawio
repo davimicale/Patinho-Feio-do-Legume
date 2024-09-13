@@ -130,22 +130,22 @@
           <mxGeometry x="202" y="-542" width="238.5" height="173" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-8" value="Carrinho de compras" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-432" width="80" height="50" as="geometry" />
+          <mxGeometry x="220" y="-435" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-9" value="Pedidos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="368" y="-432" width="70" height="50" as="geometry" />
+          <mxGeometry x="337" y="-432" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-12" value="Sistema de pagamento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="658" y="-540" width="80" height="50" as="geometry" />
+          <mxGeometry x="552" y="-478" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-14" value="Estoque de produtos" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="-697" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-18" value="Consumidor" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-94" width="80" height="50" as="geometry" />
+          <mxGeometry x="82" y="-377" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-20" value="Análise de dados" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="438" y="-100.5" width="70" height="50" as="geometry" />
+          <mxGeometry x="608" y="-390" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=223;exitDy=105;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=32;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="kf2Zh2rRVr4dtMnIcFkT-1" target="YmG18XTpctHCSX0sT91k-5">
           <mxGeometry relative="1" as="geometry" />
@@ -154,6 +154,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.516;entryY=0.081;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="YmG18XTpctHCSX0sT91k-5" target="YmG18XTpctHCSX0sT91k-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YmG18XTpctHCSX0sT91k-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=238.5;exitDy=93.5;exitPerimeter=0;entryX=0;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="YmG18XTpctHCSX0sT91k-7" target="YmG18XTpctHCSX0sT91k-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
