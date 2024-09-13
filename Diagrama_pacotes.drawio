@@ -130,7 +130,7 @@
           <mxGeometry x="334" y="-725" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-7" value="Processamento de compras&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20.5" y="-441" width="259" height="208" as="geometry" />
+          <mxGeometry x="41" y="-406" width="238.5" height="173" as="geometry" />
         </mxCell>
         <mxCell id="YmG18XTpctHCSX0sT91k-8" value="Carrinho de compras" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="-309" width="80" height="50" as="geometry" />
