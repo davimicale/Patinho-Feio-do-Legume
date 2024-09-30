@@ -16,6 +16,9 @@
         <mxCell id="FEOklc6rQLizEAP5TzJY-6" value="Publicação de produtos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="-19" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-7" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="182" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
