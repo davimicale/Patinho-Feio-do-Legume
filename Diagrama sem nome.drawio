@@ -14,7 +14,7 @@
           <mxGeometry x="43" y="-15" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FEOklc6rQLizEAP5TzJY-6" value="Publicação de produtos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="-17.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="157" y="-14.5" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FEOklc6rQLizEAP5TzJY-7" value="Acompanhamento de pedidos&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="-22" width="128" height="49" as="geometry" />
