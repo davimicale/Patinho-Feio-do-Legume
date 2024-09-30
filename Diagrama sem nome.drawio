@@ -16,8 +16,50 @@
         <mxCell id="FEOklc6rQLizEAP5TzJY-6" value="Publicação de produtos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="-19" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FEOklc6rQLizEAP5TzJY-7" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="146" y="182" width="100" height="50" as="geometry" />
+        <mxCell id="FEOklc6rQLizEAP5TzJY-7" value="Acompanhamento de pedidos&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-18" width="128" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-8" value="Pagamento" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-9" value="Notificação" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="98" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-10" value="Cancelamento" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="122" y="96" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-11" value="Adicionar produtos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="94" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-12" value="Listar produtos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="91" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-13" value="Deletar produtos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="91" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-14" value="Gerenciamento de autenticação" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-114" y="227" width="114" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-15" value="Validação de credenciais" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="19" y="230.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-16" value="Atualização de pedido" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="178" y="230.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-17" value="Avaliação de produto" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="230.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-18" value="Sistema de notificação" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="230.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-19" value="Catalogo de produtos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="351" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-20" value="Informações de usuários" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="346" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FEOklc6rQLizEAP5TzJY-21" value="Transações de pedidos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172" y="342" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
