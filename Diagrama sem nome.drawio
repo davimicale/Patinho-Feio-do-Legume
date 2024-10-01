@@ -309,7 +309,7 @@
           <mxGeometry x="-240" y="640" width="170" height="194" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-15" value="Servidor Web" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-12" y="640" width="176" height="196" as="geometry" />
+          <mxGeometry x="-12" y="640" width="176" height="245" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-16" value="Backend Services&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="205" y="640" width="228" height="301" as="geometry" />
@@ -401,7 +401,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-1" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry y="675" width="136" height="50" as="geometry" />
+          <mxGeometry x="-2" y="687.5" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="n29bfjtb1rB-AN8v75Xj-1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
