@@ -455,9 +455,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n29bfjtb1rB-AN8v75Xj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=137.5;exitDy=233;exitPerimeter=0;entryX=0;entryY=0;entryDx=106;entryDy=0;entryPerimeter=0;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="-LfRWELSsx1RldstCh8m-17" target="-LfRWELSsx1RldstCh8m-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
