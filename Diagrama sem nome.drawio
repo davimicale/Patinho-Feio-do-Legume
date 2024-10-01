@@ -311,6 +311,9 @@
         <mxCell id="-LfRWELSsx1RldstCh8m-15" value="Servidor Web" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-12" y="640" width="176" height="196" as="geometry" />
         </mxCell>
+        <mxCell id="-LfRWELSsx1RldstCh8m-16" value="Backend Services&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="205" y="640" width="179" height="194" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
