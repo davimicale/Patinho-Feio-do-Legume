@@ -424,10 +424,18 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n29bfjtb1rB-AN8v75Xj-11" value="«componente»&lt;br&gt;&lt;b&gt;Gateway de pagamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="n29bfjtb1rB-AN8v75Xj-11" value="«componente»&lt;br&gt;&lt;b&gt;Notificações&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-155.5" y="1061" width="159.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="n29bfjtb1rB-AN8v75Xj-11">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n29bfjtb1rB-AN8v75Xj-13" value="«componente»&lt;br&gt;&lt;b&gt;Autenticação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-156.5" y="1116" width="159.5" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="n29bfjtb1rB-AN8v75Xj-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="n29bfjtb1rB-AN8v75Xj-13">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
