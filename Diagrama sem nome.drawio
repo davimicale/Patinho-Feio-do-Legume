@@ -320,6 +320,22 @@
         <mxCell id="-LfRWELSsx1RldstCh8m-18" value="Serviços Externos" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-175" y="902" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="-LfRWELSsx1RldstCh8m-21" value="«Componente»&lt;br&gt;&lt;b&gt;Consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="683" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-LfRWELSsx1RldstCh8m-22" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-LfRWELSsx1RldstCh8m-21">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LfRWELSsx1RldstCh8m-23" value="«Componente»&lt;br&gt;&lt;b&gt;Consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-229.5" y="752" width="131.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-LfRWELSsx1RldstCh8m-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-LfRWELSsx1RldstCh8m-23">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
