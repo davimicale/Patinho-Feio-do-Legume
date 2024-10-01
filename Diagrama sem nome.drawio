@@ -368,7 +368,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-35" value="«componente»&lt;br&gt;&lt;b&gt;Acompanhamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-35" value="«componente»&lt;br&gt;&lt;b&gt;Catálogo de Produtos&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="216" y="1016" width="177" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-LfRWELSsx1RldstCh8m-35">
@@ -376,7 +376,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-37" value="«componente»&lt;br&gt;&lt;b&gt;Acompanhamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-37" value="«componente»&lt;br&gt;&lt;b&gt;Informações de Usuários&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="216" y="1071" width="177" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-38" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-LfRWELSsx1RldstCh8m-37">
