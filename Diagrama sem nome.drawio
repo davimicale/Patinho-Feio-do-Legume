@@ -305,11 +305,11 @@
         <mxCell id="-LfRWELSsx1RldstCh8m-11" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
           <mxGeometry x="308" y="230" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-12" value="Validação de Credenciais" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-47" y="-117" width="100" height="50" as="geometry" />
+        <mxCell id="-LfRWELSsx1RldstCh8m-12" value="Validação de Credenciais" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="-124" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-13" value="Gerenciamento de Autenticação" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="-121" width="100" height="50" as="geometry" />
+        <mxCell id="-LfRWELSsx1RldstCh8m-13" value="Gerenciamento de Autenticação" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="157" y="-130" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
