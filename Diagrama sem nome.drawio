@@ -306,7 +306,7 @@
           <mxGeometry x="308" y="230" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-14" value="Front End" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="-213" y="554" width="170" height="194" as="geometry" />
+          <mxGeometry x="-243" y="565" width="170" height="193" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-15" value="Servidor Web" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="698" width="176" height="196" as="geometry" />
@@ -321,7 +321,7 @@
           <mxGeometry x="-167" y="965" width="198" height="222" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-21" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="-202" y="597" width="131" height="55" as="geometry" />
+          <mxGeometry x="-232" y="607" width="131" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-22" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" parent="-LfRWELSsx1RldstCh8m-21" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -329,7 +329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-23" value="«componente»&lt;br&gt;&lt;b&gt;Interface agricultor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="-202.5" y="674" width="131.5" height="52" as="geometry" />
+          <mxGeometry x="-232.5" y="684" width="131.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" parent="-LfRWELSsx1RldstCh8m-23" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -439,6 +439,9 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n29bfjtb1rB-AN8v75Xj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=92;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=103;entryDy=176;entryPerimeter=0;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="-LfRWELSsx1RldstCh8m-14" target="-LfRWELSsx1RldstCh8m-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
