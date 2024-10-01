@@ -318,7 +318,7 @@
           <mxGeometry x="320" y="929" width="233" height="265" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-18" value="Serviços Externos" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="-167" y="965" width="198" height="222" as="geometry" />
+          <mxGeometry x="-170" y="961" width="198" height="222" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-21" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="-232" y="607" width="131" height="55" as="geometry" />
@@ -417,7 +417,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-9" value="«componente»&lt;br&gt;&lt;b&gt;Gateway de pagamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#996185;" vertex="1" parent="1">
-          <mxGeometry x="-155.5" y="1006" width="159.5" height="43" as="geometry" />
+          <mxGeometry x="-158.5" y="1002" width="159.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#996185;" vertex="1" parent="n29bfjtb1rB-AN8v75Xj-9">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -425,7 +425,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-11" value="«componente»&lt;br&gt;&lt;b&gt;Notificações&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#996185;" vertex="1" parent="1">
-          <mxGeometry x="-155.5" y="1061" width="159.5" height="43" as="geometry" />
+          <mxGeometry x="-158.5" y="1057" width="159.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#996185;" vertex="1" parent="n29bfjtb1rB-AN8v75Xj-11">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -433,7 +433,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-13" value="«componente»&lt;br&gt;&lt;b&gt;Autenticação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#996185;" vertex="1" parent="1">
-          <mxGeometry x="-156.5" y="1116" width="159.5" height="43" as="geometry" />
+          <mxGeometry x="-159.5" y="1112" width="159.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="n29bfjtb1rB-AN8v75Xj-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#996185;" vertex="1" parent="n29bfjtb1rB-AN8v75Xj-13">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -454,6 +454,9 @@
               <mxPoint x="442" y="887" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n29bfjtb1rB-AN8v75Xj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=137.5;exitDy=233;exitPerimeter=0;entryX=0;entryY=0;entryDx=106;entryDy=0;entryPerimeter=0;endArrow=baseDash;endFill=0;" edge="1" parent="1" source="-LfRWELSsx1RldstCh8m-17" target="-LfRWELSsx1RldstCh8m-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
