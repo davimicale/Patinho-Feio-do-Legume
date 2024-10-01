@@ -311,7 +311,7 @@
         <mxCell id="-LfRWELSsx1RldstCh8m-15" value="Servidor Web" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-12" y="640" width="176" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-16" value="Backend Services&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-16" value="Backend Services&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="205" y="640" width="228" height="301" as="geometry" />
         </mxCell>
         <mxCell id="-LfRWELSsx1RldstCh8m-17" value="Servidor Banco de Dados" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -336,34 +336,34 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-27" value="«componente»&lt;br&gt;&lt;b&gt;Compra&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-27" value="«componente»&lt;br&gt;&lt;b&gt;Compra&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" parent="1" vertex="1">
           <mxGeometry x="221" y="689" width="177" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-28" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="-LfRWELSsx1RldstCh8m-27" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-28" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" parent="-LfRWELSsx1RldstCh8m-27" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-29" value="«componente»&lt;br&gt;&lt;b&gt;Produto&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-29" value="«componente»&lt;br&gt;&lt;b&gt;Produto&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" parent="1" vertex="1">
           <mxGeometry x="221" y="750" width="177" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-30" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="-LfRWELSsx1RldstCh8m-29" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-30" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" parent="-LfRWELSsx1RldstCh8m-29" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-31" value="«componente»&lt;br&gt;&lt;b&gt;Acesso&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-31" value="«componente»&lt;br&gt;&lt;b&gt;Acesso&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" parent="1" vertex="1">
           <mxGeometry x="221" y="805" width="177" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-32" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="-LfRWELSsx1RldstCh8m-31" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-32" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" parent="-LfRWELSsx1RldstCh8m-31" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-33" value="«componente»&lt;br&gt;&lt;b&gt;Acompanhamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-33" value="«componente»&lt;br&gt;&lt;b&gt;Acompanhamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" parent="1" vertex="1">
           <mxGeometry x="221" y="865" width="177" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="-LfRWELSsx1RldstCh8m-34" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="-LfRWELSsx1RldstCh8m-33" vertex="1">
+        <mxCell id="-LfRWELSsx1RldstCh8m-34" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" parent="-LfRWELSsx1RldstCh8m-33" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
