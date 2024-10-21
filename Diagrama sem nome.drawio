@@ -658,7 +658,7 @@
           <mxGeometry x="330" y="1640" width="178" height="143" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-47" value="Acompanhamento" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="521" y="1640" width="175" height="175" as="geometry" />
+          <mxGeometry x="521" y="1640" width="175" height="184" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-51" value="«componente»&lt;br&gt;&lt;b&gt;Pagamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
           <mxGeometry x="345" y="1507" width="136" height="29" as="geometry" />
@@ -716,8 +716,8 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-67" value="«componente»&lt;br&gt;&lt;b&gt;Gerencia&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Autenticação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="532" y="1676" width="144" height="36" as="geometry" />
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-67" value="«componente»&lt;br&gt;&lt;b&gt;Atualizar localização pacote&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
+          <mxGeometry x="532" y="1676" width="144" height="43" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-68" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-67">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -725,7 +725,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-69" value="«componente»&lt;br&gt;&lt;b&gt;Gerencia&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Autenticação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="532" y="1721" width="144" height="36" as="geometry" />
+          <mxGeometry x="532" y="1731" width="144" height="36" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-70" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-69">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -733,7 +733,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-71" value="«componente»&lt;br&gt;&lt;b&gt;Gerencia&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Autenticação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="532" y="1764" width="144" height="36" as="geometry" />
+          <mxGeometry x="532" y="1776" width="144" height="36" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-72" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-71">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
