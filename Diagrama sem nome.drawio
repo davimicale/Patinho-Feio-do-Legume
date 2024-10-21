@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Página-1" id="Q1GDpHMXebuc5FLrC5qu">
-    <mxGraphModel dx="1675" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1300" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -712,7 +712,55 @@
           <mxGeometry x="-519" y="1499" width="182" height="183" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-74" value="Interface agricultor" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-316" y="1499" width="182" height="218" as="geometry" />
+          <mxGeometry x="-316" y="1499" width="182" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-75" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="1536" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-76" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-75">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-77" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="21" y="1393" width="131" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-78" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-77">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-79" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="-307" y="1589" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-80" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-79">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-81" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="-508" y="1535.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-82" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-81">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-83" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="-508" y="1589" width="150" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-84" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-83">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-85" value="«componente»&lt;br&gt;&lt;b&gt;Interface consumidor&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="-508" y="1631" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-86" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6C8EBF;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-85">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
