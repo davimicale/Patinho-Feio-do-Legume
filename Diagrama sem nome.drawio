@@ -507,38 +507,6 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-10" value="«componente»&lt;br&gt;&lt;b&gt;Compra&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="5" y="1366" width="177" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-10">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-12" value="«componente»&lt;br&gt;&lt;b&gt;Produto&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="5" y="1417" width="177" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-13" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-12">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-14" value="«componente»&lt;br&gt;&lt;b&gt;Acesso&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="9" y="1468" width="177" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-14">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-16" value="«componente»&lt;br&gt;&lt;b&gt;Acompanhamento&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
-          <mxGeometry x="9" y="1519" width="177" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-17" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-16">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-18" value="«componente»&lt;br&gt;&lt;b&gt;Catálogo de Produtos&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#D6B656;" vertex="1" parent="1">
           <mxGeometry x="293" y="1917" width="187" height="43" as="geometry" />
         </mxCell>
