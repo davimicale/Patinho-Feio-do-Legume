@@ -700,6 +700,14 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-61" value="«componente»&lt;br&gt;&lt;b&gt;Gerencia&amp;nbsp; de&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Autenticação&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1676" width="144" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-62" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-61">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
