@@ -724,7 +724,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-69" value="«componente»&lt;br&gt;&lt;b&gt;Gerencia&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Autenticação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-69" value="«componente»&lt;br&gt;&lt;b&gt;Avaliação produto&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
           <mxGeometry x="532" y="1731" width="144" height="36" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-70" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-69">
@@ -732,7 +732,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l4UtpFljAAOKm2rbPqK7-71" value="«componente»&lt;br&gt;&lt;b&gt;Gerencia&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Autenticação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
+        <mxCell id="l4UtpFljAAOKm2rbPqK7-71" value="«componente»&lt;br&gt;&lt;b&gt;Sistema notificação&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;strokeColor=#B85450;" vertex="1" parent="1">
           <mxGeometry x="532" y="1776" width="144" height="36" as="geometry" />
         </mxCell>
         <mxCell id="l4UtpFljAAOKm2rbPqK7-72" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#B85450;" vertex="1" parent="l4UtpFljAAOKm2rbPqK7-71">
