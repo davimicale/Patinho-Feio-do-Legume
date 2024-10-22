@@ -228,7 +228,7 @@
           <mxGeometry x="342" y="324.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="C9IXfpwe21aH-CLI6LS6-66" value="Acompanhamento de pedidos&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="514" y="398.5" width="128" height="49" as="geometry" />
+          <mxGeometry x="501" y="402" width="128" height="49" as="geometry" />
         </mxCell>
         <mxCell id="C9IXfpwe21aH-CLI6LS6-67" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C9IXfpwe21aH-CLI6LS6-12" target="C9IXfpwe21aH-CLI6LS6-69">
           <mxGeometry relative="1" as="geometry">
